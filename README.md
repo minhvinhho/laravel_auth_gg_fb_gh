@@ -1,0 +1,1 @@
+## Laravel Socialite (Social Login) - Login with google, facebook and github

@@ -413,7 +413,7 @@
         <div class="flex justify-center mt-4 sm:items-center sm:justify-between">
             <div class="text-center text-sm text-gray-500 sm:text-left">
                 <div class="flex items-center">
-                    <h1>Laravel <span style="color: red">Socialite</span></h1>
+                    <h1>Laravel Authentication</h1>
                 </div>
             </div>
         </div>
